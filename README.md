@@ -1,6 +1,6 @@
-# rhail-benchmark
+# Ruby Hail Benchmark
 
-Compare similar code in Rails/Sinatra vs Rhail.
+Compare similar code in Rails/Sinatra vs Ruby Hail.
 
 ## Install
 
